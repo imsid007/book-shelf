@@ -6,7 +6,7 @@ export default function Home() {
     <div>
       <div className="flex min-h-screen flex-col items-center justify-between p-24 home-bg" />
       <div className="bg-text rounded-tl-3xl rounded-br-3xl">
-        <div className="mb-32 lg:mb-0 lg:w-full lg:max-w-5xl lg:text-left rounded-tl-md">
+        <div className="m-auto lg:mb-0 lg:w-full lg:max-w-5xl lg:text-left rounded-tl-md">
           <div className="text-center rounded-lg border border-transparent px-5 py-10 transition-colors ">
             <h1 className="font-medium text-[40px] ">
               Books that Inspire Young Minds
